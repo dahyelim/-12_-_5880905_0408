@@ -100,7 +100,7 @@ int main() {
 
     addMatrices(&matrix1, &matrix2, &result);
 
-    printList(&result);
+    printList(&result);//
 
     return 0;
 }
